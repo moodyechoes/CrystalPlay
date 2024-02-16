@@ -15,6 +15,7 @@
     "LoadPriority": 69420,
     "LoadRequiredState": 2,
     "LoadSync": true,
-    "DownloadLinkInstall": "https://github.com/moodyechoes/CrystalPlay/releases/download/0.0.0.1/CrystalPlay.Plugin.zip"
+    "DownloadLinkInstall": "https://github.com/moodyechoes/CrystalPlay/releases/download/0.0.0.1/CrystalPlay.Plugin.zip",
+    "DownloadLinkUpdate": "https://github.com/moodyechoes/CrystalPlay/releases/download/0.0.0.1/CrystalPlay.Plugin.zip"
   }
 ]
